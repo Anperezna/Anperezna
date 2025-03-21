@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Anperezna
-- 👀 Interested in web development and interficies
+- 👀 Interested in web development and multiplatform
 - 🌱 I’m currently learning Multiplatform Development in Centre d'Estudis Politecnics, Barcelona
 - 🖥️ Degree in Microcomputer Systems and Networks.
 - 📚 I was able to discover that computing and its entire world interested me more and more. So far I am learning to program in JAVA.
