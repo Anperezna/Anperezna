@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Java-lightyellow?style=for-the-badge&logoSize=20%25&color=%23fdfd96)
 ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=black)
 
 ## 💻 Recently used systems
 ![Static Badge](https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=%23000000)
