@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m @Anperezna
 - 👀 I’m interested in development interficies
 - 🌱 I’m currently learning Multiplatform Development
-- 📫 How to reach me angelperezmoreno47@gmail.com
+- 📫 How to reach me ![Static Badge](https://img.shields.io/badge/gmail-%2300f0ff?style=for-the-badge&logo=gmail&logoColor=%23EA4335&link=href%3D%22mailto%3Aangelperezmoreno47%40gmail.com%22)
+
 
 ## 🛠️ Tools 🧑‍💻
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoSize=20%25)
